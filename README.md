@@ -11,8 +11,7 @@ Only one thing stands in the way...
 Microsoft recently bought Candy Crush, and they also own UNSW's only communication platform, Microsoft Teams!
 
 If we want to make a Candy Crush competitor, we're going to have to remake Teams first - or those Microsoft spies will shut us down before we even begin development!
-
-The 22T2 cohort of COMP1531 students will build the backend Javascript server for a new communication platform, UNSW Treats (or just Treats for short). I plan to task future COMP6080 students to build the front-end for Treats, something you won't have to worry about.
+COMP1531 students will build the backend Javascript server for a new communication platform, UNSW Treats (or just Treats for short). I plan to task future COMP6080 students to build the front-end for Treats, something you won't have to worry about.
 
 UNSW Treats is the questionably-named communication tool that allows you to share, communicate, and collaborate virtually without intervention from Microsoft spies.
 

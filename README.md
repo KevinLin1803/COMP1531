@@ -1,4 +1,4 @@
-## PowCoder| UNSW Messaging Platform
+## PowCoder | UNSW Messaging Platform
 
 UNSW needs a change in business model. Revenue has been going down, despite the absolutely perfect MyExperience feedback.
 
